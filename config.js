@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['+994 40 265 16 87', 'වැල් ලන්තේ Official²⁰²³', true],
+  ['+994 40 265 16 87', 'වැල් ලන්තේ Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
@@ -49,14 +49,14 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.packname = '💝 වැල් ලන්තේ බොට් 💝 Created By 💝 වැල් ලන්තේ Official²⁰²³ 💝' 
+global.author = '💝 වැල් ලන්තේ Official²⁰²³ 💝' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/වැල් ලන්තේ බොට් Official²⁰²³\n' 
+global.dygp = 'https://chat.whatsapp.com/C1wj2UK7XrOHFduPQaylYV'
+global.fgsc = 'https://github.com/වැල් ලන්තේ/වැල් ලන්තේ බොට්' 
+global.fgyt = 'https://chat.whatsapp.com/C1wj2UK7XrOHFduPQaylYV'
+global.fgpyp = 'https://chat.whatsapp.com/C1wj2UK7XrOHFduPQaylYV'
+global.fglog = 'https://i.ibb.co/MNPtRD3/In-Shot-20231025-191735833.jpg' 
 
 
 global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
